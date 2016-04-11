@@ -6,6 +6,6 @@
  * Time: 9:41 AM
  */
 $database_user="root";
-$databse_pass="root123";
+$databse_pass="";
 $database_name='taxi';
 ?>
